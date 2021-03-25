@@ -1,0 +1,2 @@
+[2021-3-15 22:16:23] layer "austin-coffee-logo.png": Duplicate path: austin-coffee-logo.png
+[2021-3-15 22:16:23] layer "austin-coffee-logo.png": Duplicate path: austin-coffee-logo.png

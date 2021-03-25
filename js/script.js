@@ -1,0 +1,1 @@
+$(function(){var o=$(".fv").outerHeight();$(window).scroll(function(){$(window).scrollTop()<o-300?$(".scroll-top").css("display","none"):$(".scroll-top").css("display","block")}),$(".scroll-top").click(function(){return $("body,html").animate({scrollTop:0},300),!1})});
